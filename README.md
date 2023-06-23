@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help with Puppet and Docker
 
-- 💬 Ask me about Flutter or any Algorithm implementation and stuff
+- 💬 Ask me about Flutter,UI/UX or application architecture.
 
 - 📫 How to reach me: gmail - divignanesh@gmail.com ,  Twitter 	- 	 [@Gnanesh83380065](https://twitter.com/Gnanesh83380065),  Youtube 	-	 [@divignanesh](https://www.youtube.com/channel/UC5NVQmScmhSaSgfAmTNmAJw)
 <br>
